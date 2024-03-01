@@ -39,7 +39,7 @@ discount_price_after_discount_book8 = price_book8 - price_book8 * discount2 / 10
 discount_price_after_discount_book9 = price_book9 - price_book9 * discount2 / 100
 discount_price_after_discount_book10= price_book10 - price_book10 * discount2 / 100
 
-#print book name and price after discount
+#display book name and price after discount
 
 print(book1_name, discount_price_after_discount_book1)
 print(book2_name, discount_price_after_discount_book2)
