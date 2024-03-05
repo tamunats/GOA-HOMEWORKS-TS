@@ -4,7 +4,6 @@
 #num = 12
 #print(str(12) + "book")
 
-print(True and False)
-print(False and True)
-print(True or False)
-print(False or True)
+#ლოგიკური ოპეარტორების უპირატესობები not, and, or
+#not, True-ს ხდის  False  და False -ს Trues
+# ლოგიკური ოპერატორები https://www.pythontutorial.net/python-basics/python-logical-operators/
