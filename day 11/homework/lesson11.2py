@@ -1,0 +1,14 @@
+"""რიცხვების ჯამი: დაწერეთ პროგრამა, რომელიც მომხმარებელს 
+სთხოვს რიცხვებს განუწყვეტლივ, სანამ ისინი არ შეიყვანენ 0-ს.
+ შემდეგ დაბეჭდეთ ყველა შეყვანილი რიცხვის ჯამი."""
+
+
+num = 0
+enter_number=int(input("please enter number "))
+sum=0
+
+while enter_number != num:
+    enter_number=int(input("please enter number "))
+    sum=sum + enter_number
+
+print(sum)

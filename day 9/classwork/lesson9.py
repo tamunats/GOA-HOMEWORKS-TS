@@ -33,15 +33,15 @@
 #        print(i, "is odd")
 
 
-#registered_password = "Tamo123"
-#authorized = False
+registered_password = "Tamo123"
+authorized = False
 
-#while authorized != True:
-#    user_input = input("please enter yorr password: ")
-#
-#    if user_input == registered_password:
-#        print("Accses granted!")
-#        authorized = True
-#    else:
-#        print("incorrect please try again")    
+while authorized != True:
+   user_input = input("please enter yorr password: ")
+
+   if user_input == registered_password:
+       print("Accses granted!")
+       authorized = True
+   else:
+       print("incorrect please try again")    
     
