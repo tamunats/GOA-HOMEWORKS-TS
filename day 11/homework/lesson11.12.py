@@ -3,6 +3,5 @@
 
 enter_number=int(input("please enter number "))
 
-num=enter_number
-while num % 2 == 0:
-     enter_number=int(input("please enter number "))
+while enter_number % 2 != 0:
+    enter_number=int(input("please enter number "))

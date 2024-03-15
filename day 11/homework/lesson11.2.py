@@ -4,6 +4,7 @@
 
 
 num = 0
+
 enter_number=int(input("please enter number "))
 sum=0
 

@@ -1,0 +1,2 @@
+wake="Tamo"
+print(wake)

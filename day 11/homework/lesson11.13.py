@@ -4,14 +4,11 @@
 რომლებიც მეტია 75-ზე. ბოლოს დაპრინტეთ ამ ცვლადის მნიშვნელობა"""
 
 
-i = 50
 sum = 0
-while i <= 100:
-    print(i)
-    i=i + 1 
-    
-if  i >= 75:
-    sum=sum + i  
-    print(sum)
-
-    
+for i in range(50, 100 + 1):
+    if i % 2 != 0:
+        print(i)
+    if i > 75:
+        sum = sum + i   
+        
+print(sum)    

@@ -35,4 +35,4 @@ height=160.5
 I_want_to_lern_programming=True
 
 
-print("me var" + " " + name + " " + surname + " " + str(22) + " " + "clis" + " " + "simagle" + " " + str(height))
+print("me var" + " " + name + " " + surname + " " + str(age) + " " + "clis" + " " + "simagle" + " " + str(height))
