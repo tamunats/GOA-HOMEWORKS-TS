@@ -2,8 +2,13 @@
 რიცხვის (მაგ 5) პირველ 10 ჯერადს for loop-ის გამოყენებით."""
 
 
-i=5
 
-for i in range(5, 55, 5):
-   print(i)
-   i=i + 5
+
+#for i in range(5, 50 + 1, 5):
+#   print(i)
+
+
+for i in range(1,10+1):
+   print(i * 5)
+
+   
