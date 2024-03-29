@@ -1,15 +1,6 @@
-# animals = ["cat", "dog", "bird"]
-# print(animals[2])
-# print(animals)
-# print(len(animals))
-# print(animals[len(animals) -2])
+"""2) შექმენით სია სადაც შეინახავთ თქვენთვის საყვარელ ფილბეს და 
+დაბეჭდეთ მთლიანი სია/ კონკრეტული ფილმი"""
 
-# nums = [8, 6, 19]
-# nums[0] = 1
-# print(nums)
-
-
-
-products = ["juice", "chocolate", "water"]
-choice = int(input())
-print(products [choice])
+movie = ["avatar", "spiderman", "cinderela", "bad moms"]
+print(movie)
+print(movie[3])
